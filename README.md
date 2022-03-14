@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 🌱 I’m currently learning zookeeper, ElasticSearch, And I am also reviewing Spring related knowledge.  
 🤔 I’m looking for help with high concurrency, database tuning related techniques.  
 😄 I am very interested in Java related technology, if you are interested in this, welcome to come and discuss with me  
+
+<!-- 
+Language and Technology:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiang-zyj)](https://github.com/jiang-zyj/github-readme-stats)
+-->
+
+
+![jiang-zyj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiang-zyj&show_icons=true&theme=gruvbox)
