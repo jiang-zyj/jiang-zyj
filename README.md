@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on java develop.
-🌱 I’m currently learning zookeeper, ElasticSearch, And I am also reviewing Spring related knowledge.
-🤔 I’m looking for help with high concurrency, database tuning related techniques.
-😄 I am very interested in Java related technology, if you are interested in this, welcome to come and discuss with me
+🔭 I’m currently working on java develop.  
+🌱 I’m currently learning zookeeper, ElasticSearch, And I am also reviewing Spring related knowledge.  
+🤔 I’m looking for help with high concurrency, database tuning related techniques.  
+😄 I am very interested in Java related technology, if you are interested in this, welcome to come and discuss with me  
